@@ -49,8 +49,11 @@ The voltage gain obtained is approximately 11.
 The output waveform is in phase with the input waveform.
 ## Conclusion
 •	Gain depends on resistor ratio (Rf/R1).
+
 •	Output is amplified without phase reversal.
+
 •	Practical values are close to theoretical values.
+
 ## Viva Questions
 1.What is a Non-Inverting Amplifier?
     
