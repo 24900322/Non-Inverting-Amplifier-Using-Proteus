@@ -4,21 +4,32 @@
 To design and simulate a Non-Inverting Amplifier using μA741 in Proteus Design Suite and verify its voltage gain.
 ## Apparatus Required
 •	μA741 Op-Amp
+
 •	Resistor R1 = 10 kΩ
+
 •	Resistor Rf = 100 kΩ
+
 •	Signal Generator (1 kHz sine wave)
+
 •	Dual Power Supply (±15V)
+
 •	CRO / Oscilloscope
+
 •	Connecting wires
+
 ## Circuit Diagram
 (Draw neatly in record OR paste Proteus circuit screenshot)
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4be46d40-2dc3-4712-9ecc-3232d38e23b1" />
 
 Pin Configuration:
 •	Pin 3 → Input (Non-inverting)
+
 •	Pin 2 → Feedback network
+
 •	Pin 6 → Output
+
 •	Pin 7 → +15V
+
 •	Pin 4 → −15V
 ## Theory
 A Non-Inverting Amplifier is a closed-loop amplifier configuration in which the input is applied to the non-inverting terminal (+) of the op-amp.
